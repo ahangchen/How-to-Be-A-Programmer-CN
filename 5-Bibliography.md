@@ -1,6 +1,6 @@
-# Appendix A - Bibliography/Websiteography
+# 附录 A - 书目/网站目录
 
-## Books
+## 书目
 
 [Rules00] Guy Kawasaki, Michelle Moreno, and Gary Kawasaki. 2000. HarperBusiness. Rules for Revolutionaries: The Capitalist Manifesto for Creating and Marketing New Products and Services.
 
@@ -16,7 +16,7 @@
 
 [Stronger] Friedrich Nietzsche. 1889. Twilight of the Idols, "Maxims and Arrows", section 8..
 
-## Web Sites
+## 网站
 
 [PGSite] Paul Graham. 2002. Articles on his website: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). All of them, but especially "Beating the Averages".
 

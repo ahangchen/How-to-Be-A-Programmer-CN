@@ -1,5 +1,5 @@
 
-## Creative Commons Attribution Share-Alike 
+## Creative Commons Attribution Share-Alike
 
 "How To Be A Programmer: Community Version" by Robert L. Read with Community is licensed under Creative Commons Attribution Share-Alike Internal v 4.0.
 
