@@ -5,7 +5,7 @@
 **unk-unk**
 : unknown-unknown的简写。指的是一些暂时不能被概念化的问题，它们会偷走项目的时间并且阻塞时间表。
 
-**boss** 
+**boss**
 : 给你任务的人或实体，有些地方可能泛指公众。
 
 **printlining**
@@ -29,82 +29,82 @@
 **低垂的水果**
 : 轻易能达到的巨大提升。
 
-**Entrepreneur**
-:The initiator of projects.
+**主办人**
+:项目的发起人
 
-**garbage**
-: Objects that are no longer needed that hold memory.
+**垃圾**
+: 不再需要被放在内存中的对象
 
-**business**
-: A group of people organized for making money.
+**商业**
+: 一群为财富聚合在一起的人
 
-**company**
-: A group of people organized for making money.
+**公司**
+: 一群为财富聚合在一起的人
 
-**tribe**
-: A group of people you share cultural affinity and loyalty with.
+**集体**
+: 一群与你共享文化亲缘与忠诚的人。
 
-**scroll blindness**
-: The effect of being unable to find information you need because it is buried in too much other, less interesting information.
+**滚动目盲**
+: 一种由于有效信息被太多无效信息掩盖导致你不能发现它的效应
 
-**wall-clock**
-: Actually time as measured by a clock on a wall, as opposed to CPU time.
+**挂钟**
+: 由挂钟测量的现实中真实的时间，与CPU时间相对。
 
-**bottleneck**
-: The most important limitation in the performance of a system. A constriction that limits performance.
+**瓶颈**
+: 系统性能最重要的限制/一个可以限制性能的界限。
 
-**master**
-: A unique piece of information from which all cached copies are derived that serves as the official definition of that data.
+**主线**
+: 一个独特的信息块，所有缓存副本都从它继承而来，作为这份数据的官方版本。
 
-**heap allocated**
-: Memory can be said to be heap allocated whenever the mechanism for freeing it is complicated.
+**分配的堆**
+: 一份内存在这样的情况下可以被称为分配了堆：当释放它的机制已经完成时。
 
-**garbage**
-: Allocated memory that no longer has any useful meaning.
+**垃圾**
+: 已经被分配但不再有有效意义的内存。
 
-**garbage collector**
-: A system for recycling garbage.
+**GC**
+: 一个回收垃圾的系统。
 
-**memory leak**
-: The unwanted collection of references to objects that prevents garbage collection (or a bug in the garbage collector or memory management system!) that causes the program to gradually increase its memory demands over time.
+**内存泄露**
+: 无意持有的一系列对象的引用，它们避免了垃圾回收（或者垃圾回收器或内存管理系统中的bug！）导致程序随时间逐渐增加了它的内存占用。
 
-**Extreme Programming**
-: A style of programming emphasizing communication with the customer and automated testing.
+**极限编程**
+: 一种强调与客户交流以及自动化测试的编程风格。
 
-**hitting the wall**
-: To run out of a specific resource causing performance to degrade sharply rather than gradually.
+**碰壁**
+: 因为耗尽了某种特定的资源导致性能突然大幅度地降级
 
-**speculative programming**
-: Producing a feature before it is really known if that feature will be useful.
+**投机编程**
+: 在知道一个东西有用前就把它做出来。
 
-**information hiding**
-: A design principle that seeks to keep things independent and decoupled by using interfaces that expose as little information as possible.
+**信息隐藏(封装)**
+: 通过使用尽可能少暴露信息的接口来让事情保持独立解耦的一种设计原则。
 
-**object-oriented programming**
-: An programming style emphasizing the the management of state inside objects.
+**面向对象编程**
+: 一种强调在对象内部管理状态的编程风格。
 
-**communication languages**
-: A language designed primarily for standardization rather than execution.
+**交流语言**
+: 一种优先为标准化而非执行设计的语言。
 
-**boxes and arrows**
-: A loose, informal style of making diagrams consisting of boxes and arrows drawn between those boxes to show the relationships. This contrast with formal diagram methodologies, such as UML.
+**箱子与箭头**
+: 一种宽松，非正式的，由箱子和箭头组合而成表达关系的图表制作风格，这与正式的图表方法论，比如UML，相对。
 
-**lingua franca**
-: A language so popular as to be a de facto standard for its field, as French was for international diplomacy at one time.
+**通用语**
+: 一种语言是如此受欢迎以至于它成了它的领域中实际上的标准，例如法语一度成为国际外交的手段。
 
 **buy vs. build**
-: An adjective describing a choice between spending money for software or writing it your self.
+: 用来形容购买软件还是自己编写软件这样的选择。
 
-**mere work**
-: Work that requires little creativity and entails little risk. Mere work can be estimated easily.
+**合并工作**
+: 需要很少创造力并产生很少风险的工作，合并工作可以被很容易地评估。
 
-**programming notation**
-: A synonym for programming language that emphasizes the mathematical nature of programming language and their relative simplicity compared to natural languages.
+**编程符号**
+: 编程语言的同义词，强调编程语言的数学本质以及它们与自然语言相比的简单之处。
 
-**strawman**
-: A document meant to be the starting point of a technical discussion. A strawman may lead to a stickman, tinman, woodman, ironman, etc.
+**稻草人**
+: 一种用来作为技术讨论起点的文档。稻草人也可以引申出火柴人，罐头人，木头人，铁人，等等。
 
-**white-paper**
-: An informative document that is often meant to explain or sell a product or idea to an audience different than the programmers of that product or idea.
+**白纸**
+: 一种信息文档，通常用来解释或将产品或思想卖给观众而非程序员。
 
-Next [Bibliography/Websiteography](5-Bibliography.md)
+Next [书籍/网站](5-Bibliography.md)
