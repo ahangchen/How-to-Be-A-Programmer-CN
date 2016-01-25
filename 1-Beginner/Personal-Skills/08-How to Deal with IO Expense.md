@@ -1,6 +1,6 @@
 # 如何处理I/O代价
 
-在很多问题上，处理器的速度比硬件交流要快得多。For a lot of problems, processors are fast compared to the cost of communicating with a hardware device. This cost is usually abbreviated I/O, and can include network cost, disk I/O, database queries, file I/O, and other use of some hardware not very close to the processor. Therefore building a fast system is often more a question of improving I/O than improving the code in some tight loop, or even improving an algorithm.
+在很多问题上，处理器的速度比硬件交流要快得多。这种代价通常是小的I/O，可能包括网络消耗，磁盘I/O，数据库查询，文件I/O，还有其他与处理器不太接近的硬件使用。所以构建一个快速的系统通常是一个提高I/O的问题，而非在紧致的循环里优化代码或者甚至优化算法。
 
 There are two very fundamental techniques to improving I/O: caching and representation. Caching is avoiding I/O (generally avoiding the reading of some abstract value) by storing a copy of that value locally so no I/O is performed to get the value. The first key to caching is to make it crystal clear which data is the master and which are copies. There is only one master - period. Caching brings with it the danger that the copy sometimes can't reflect changes to the master instantaneously.
 
