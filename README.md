@@ -4,6 +4,10 @@
 
 译文地址 https://github.com/ahangchen/How-to-Be-A-Programmer-CN
 
+如果你想要一起来改进这份翻译，可以给我提PR，不过希望翻译时尽量保持作者的原意。
+
+文章中出现的一些纯英文的词汇往往有特殊非含义，可以在(4-词汇表)[4-Glossary.md]找到注释。
+
 ## 引言
 　　做一个好的程序员是困难而高尚的。将一个软件工程集体愿景变为显示最困难的地方在于与一个人的同事和顾客相处。编程，而且需要巨大的智力和技能。 但与好的程序员构建一个让自己负责的客户和各种各样的同事都满意的软件系统做的那些事相比，编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我21岁时希望别人告诉我的事。
 
@@ -21,7 +25,6 @@
 	- 个人技能
 		- [学会Debug](1-Beginner/Personal-Skills/01-Learn To Debug.md)
 		- [如何分离问题debug](1-Beginner/Personal-Skills/02-How to Debug by Splitting the Problem Space.md)
-		- [如何去掉一个Error](1-Beginner/Personal-Skills/03-How to Remove an Error.md)
 		- [如何用Log来Debug](1-Beginner/Personal-Skills/04-How to Debug Using a Log.md)
 		- [如何理解性能问题](1-Beginner/Personal-Skills/05-How to Understand Performance Problems.md)
 		- [如何解决性能问题](1-Beginner/Personal-Skills/06-How to Fix Performance Problems.md)
