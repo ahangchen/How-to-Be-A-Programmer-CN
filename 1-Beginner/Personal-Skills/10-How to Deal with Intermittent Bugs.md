@@ -1,4 +1,5 @@
-# How to Deal with Intermittent Bugs
+# 如何处理偶现的Bugs
+
 
 The intermittent bug is a cousin of the 50-foot-invisible-scorpion-from-outer-space kind of bug. This nightmare occurs so rarely that it is hard to observe, yet often enough that it can't be ignored. You can't debug because you can't find it.
 
