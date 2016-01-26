@@ -1,6 +1,9 @@
 # How to be a Programmer 中文版
 原文出自 https://github.com/braydie/HowToBeAProgrammer
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+译文地址 https://github.com/ahangchen/How-to-Be-A-Programmer-CN
+
 ## 引言
 　　做一个好的程序员是困难而高尚的。将一个软件工程集体愿景变为显示最困难的地方在于与一个人的同事和顾客相处。编程，而且需要巨大的智力和技能。 但与好的程序员构建一个让自己负责的客户和各种各样的同事都满意的软件系统做的那些事相比，编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我21岁时希望别人告诉我的事。
 
@@ -27,7 +30,7 @@
 		- [如何管理内存](1-Beginner/Personal-Skills/09-How to Manage Memory.md)
 		- [如何处理偶现的Bug](1-Beginner/Personal-Skills/10-How to Deal with Intermittent Bugs.md)
 		- [如何学习设计技能](1-Beginner/Personal-Skills/11-How to Learn Design Skills.md)
-		- [如何进行实验](1-Beginner/Personal-Skills/12-How to Conduct Experiments.md) 
+		- [如何进行实验](1-Beginner/Personal-Skills/12-How to Conduct Experiments.md)
 	- 团队技能
 		- [为什么预估很重要](1-Beginner/Team-Skills/01-Why Estimation is Important.md)
 		- [如何预估编程时间](1-Beginner/Team-Skills/02-How to Estimate Programming Time.md)
