@@ -6,8 +6,8 @@
 
 代表是通过更高效地代表数据来让I/O更廉价。这通常会限制其他的要求，比如可读性和可移植性。
 
-代表通常可以用他们第一实现中的两到三个因子来做优化。实现这点的技术包括使用二进制表示而非人类可识别的方式。Representations can often be improved by a factor of two or three from their first implementation. Techniques for doing this include using a binary representation instead of one that is human readable, transmitting a dictionary of symbols along with the data so that long symbols don't have to be encoded, and, at the extreme, things like Huffman encoding.
+代表通常可以用他们第一实现中的两到三个因子来做优化。实现这点的技术包括使用二进制表示而非人类可识别的方式,传递数据的同时也传递一个符号表，这样长的符号就不需要被编码，极端的，可能会像哈弗曼编码。
 
-A third technique that is sometimes possible is to improve the locality of reference by pushing the computation closer to the data. For instance, if you are reading some data from a database and computing something simple from it, such as a summation, try to get the database server to do it for you. This is highly dependent on the kind of system you're working with, but you should explore it.
+一个偶尔可行的第三方技术是让计算更接近数据，来优化本地引用。例如，如果你正在从数据库读取一些数据并且在它上面执行一些简单的计算，比如求和，试着让数据库服务器去做这件事，这高度依赖于你正在工作的系统的类型，但这个方面你必须自己探索。
 
-Next [How to Manage Memory](09-How to Manage Memory.md)
+Next [如何管理内存](09-How to Manage Memory.md)
