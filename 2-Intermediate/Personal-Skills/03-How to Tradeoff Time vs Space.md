@@ -1,15 +1,15 @@
-# How to Tradeoff Time vs. Space
+# 如何在时间与空间权衡
 
-You can be a good programmer without going to college, but you can't be a good intermediate programmer without knowing basic computational complexity theory. You don't need to know 'big O' notation, but I personally think you should be able to understand the difference between 'constant-time','n log n' and 'n squared'. You might be able to intuit how to trade-off time against space without this knowledge, but in its absence you will not have a firm basis for communicating with your colleagues.
+没有上过大学的话，你也可以成为一个好的程序员，但你不知道基本的计算复杂度理论的话，你不可能成为一个好的进阶程序员。你不需要知道‘O’的定义，但我个人认为你应该理解‘常量时间’，‘nlogn’,'n²'的区别。你可能可以不靠这方面的知识，凭直觉知道如何在时间和空间之间权衡，但没有这种知识，你不会有一个稳固的理解你的同事的基础。
 
-In designing or understanding an algorithm, the amount of time it takes to run is sometimes a function of the size of the input. When that is true, we can say an algorithm's worst/expected/best-case running time is 'n log n' if it is proportional to the size ($n$) times the logarithm of the size. The notation and way of speaking can be also be applied to the space taken up by a data structure.
+在设计或理解算法的过程中，算法花费的时间有时候是一个以输入量为自变量的函数。当这种情况发生时，如果运行时间与输入量的对数的n倍成正比，我们可以说一个算法的最坏/期望/最好情况运行时间是'nlogn'，这个定义和阐述的方式也可以被应用在数据结构占用的空间上。
 
-To me, computational complexity theory is beautiful and as profound as physics - and a little bit goes a long way!
+对我来时候，计算复杂度理论是美妙的，并且与物理学一样意义深远，并且可能还有很长的路要走！
 
-Time (processor cycles) and space (memory) can be traded off against each other. Engineering is about compromise, and this is a fine example. It is not always systematic. In general, however, one can save space by encoding things more tightly, at the expense of more computation time when you have to decode them. You can save time by caching, that is, spending space to store a local copy of something, at the expense of having to maintain the consistency of the cache. You can sometimes save time by maintaining more information in a data structure. This usually cost a small amount of space but may complicate the algorithm.
+时间（处理器周期）和空间（内存）可以相互交易。工程是一种妥协，这是一个好的例子。它不总是系统的，然而，编码一些东西时更加紧凑可以节省空间，但要以解码时更多的处理时间为代价。你可以通过缓存节省时间，也就是，花费空间去存储某些东西的一个本地副本，但要以维持缓存的一致性为代价。你偶尔可以通过把更多信息放在一个数据结构里来节省时间。但这通常导致小的空间占用，复杂化算法。
 
-Improving the space/time trade-off can often change one or the other dramatically. However, before you work on this you should ask yourself if what you are improving is really the thing that needs the most improvement. It's fun to work on an algorithm, but you can't let that blind you to the cold hard fact that improving something that is not a problem will not make any noticeable difference and will create a test burden.
+提高时间空间转换经常把它们中的一个或另一个戏剧性地改变。然而，在你开始做这个工作前，你应该问你自己，你将要优化的是否是最需要优化的？研究算法是有趣的，但你不能让这遮蔽了你的双眼让你看不到这样一个冷酷的事实：优化一些不是问题的问题不会产生可见的影响并且会造成测试负担。
 
-Memory on modern computers appears cheap, because unlike processor time, you can't see it being used until you hit the wall; but then failure is catastrophic. There are also other hidden costs to using memory, such as your effect on other programs that must be resident, and the time to allocate and deallocate it. Consider this carefully before you trade away space to gain speed.
+现代计算机内存越来越便宜，因为不像处理器时间，你在达到边界前你不能看见它，但这种失败是灾难性的。使用内存也有隐藏的代价，比如你影响了其他需要被保留的程序，以及你分配和释放内存的时间。在你想要花更多空间去换取速度之前，仔细考虑这一点。
 
-Next [How to Stress Test](04-How to Stress Test.md)
+Next [如何进行压力测试](04-How to Stress Test.md)
