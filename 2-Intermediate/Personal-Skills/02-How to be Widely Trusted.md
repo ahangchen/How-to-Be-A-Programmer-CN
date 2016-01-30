@@ -1,7 +1,7 @@
-# How to be Widely Trusted
+# 如何被广泛信任
 
-To be trusted you must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you. With those close to you, such as your teammates, this should not be an issue. You establish trust by being responsive and informative to those outside your department or team. Occasionally someone will abuse this trust, and ask for unreasonable favours. Don't be afraid of this, just explain what you would have to give up doing to perform the favour.
+你如果值得信任，才能被信任。你也应该让别人了解你。如果没人了解你，没人会为你投票。跟与你亲近的人一起，比如队友，这不能成为一个话题。对你部门或团队以外的人，你通过责任和博知建立信任。有时有人会滥用信任，并要求无理由的喜爱。不要害怕，解释这种喜爱会让你必须放弃什么。
 
-Don't pretend to know something that you don't. With people that are not teammates, you may have to make a clear distinction between 'not knowing right off the top of my head' and 'not being able to figure it out, ever.'
+不要不懂装懂。与队友以外的人一起时，你必须清除地区分“当下在我脑子里不懂的东西”以及“我曾经没有认识到的东西”。
 
-Next [How to Tradeoff Time vs. Space](03-How to Tradeoff Time vs Space.md)
+Next [如何在时间和空间权衡](03-How to Tradeoff Time vs Space.md)
