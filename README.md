@@ -25,6 +25,7 @@
 	- 个人技能
 		- [学会Debug](1-Beginner/Personal-Skills/01-Learn To Debug.md)
 		- [如何分离问题debug](1-Beginner/Personal-Skills/02-How to Debug by Splitting the Problem Space.md)
+		- [如何移除错误](1-Beginner/Personal-Skills/03-How to Remove an Error.md)
 		- [如何用Log来Debug](1-Beginner/Personal-Skills/04-How to Debug Using a Log.md)
 		- [如何理解性能问题](1-Beginner/Personal-Skills/05-How to Understand Performance Problems.md)
 		- [如何解决性能问题](1-Beginner/Personal-Skills/06-How to Fix Performance Problems.md)
