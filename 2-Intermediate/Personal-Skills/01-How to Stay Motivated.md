@@ -1,15 +1,14 @@
-# How to Stay Motivated
+# 如何保持活力
 
-It is a wonderful and surprising fact that programmers are highly motivated by the desire to create artifacts that are beautiful, useful, or nifty. This desire is not unique to programmers nor universal but it is so strong and common among programmers that it separates them from others in other roles.
+创建美丽，有用，俏皮的物品的欲望能高度调动程序员的积极性。这是奇妙而令人惊奇的。这种欲望对不仅是对程序员，但也不普遍，但在程序员中，它是如此强烈而普遍以至于它把程序员与其他角色的人们分割开来。
 
-This has practical and important consequences. If programmers are asked to do something that is not beautiful, useful, or nifty, they will have low morale. There's a lot of money to be made doing ugly, stupid, and boring stuff; but in the end, fun will make the most money for the company.
+这有一个现实而重要的推论。如果程序员被要求做一些不美丽/有用/漂亮的事情，他们会斗志低落。做丑陋，愚蠢，无聊的员工可能可以赚很多钱，但最后，乐趣才会为公司赚最多的钱。
 
-Obviously, there are entire industries organized around motivational techniques some of which apply here. The things that are specific to programming that I can identify are:
+很明显，有一些完全由动机技术组织起来的工业适用这里的情况。这些我可以识别的特定的编程中的事情有：
+- 为工作使用最好的语言
+- 寻找机会去使用新技术，新语言，新科技
+- 尝试在每个工程里学习或教授一些东西，即使很小
 
-- Use the best language for the job.
-- Look for opportunities to apply new techniques, languages, and technologies.
-- Try to either learn or teach something, however small, in each project.
+最后，可能的话，估量个人激励的东西对你工作的影响。例如，修复bug时，数一数我完全不感兴趣的bug的数目，因为这和仍然存在的bug数目是独立的，并且也影响我在最小可能的方式上影响我对我公司的顾客的增值。把每个bug和一个高兴的顾客关联起来，*是*对我个人的激励。
 
-Finally, if possible, measure the impact of your work in terms of something that will be personally motivating. For example, when fixing bugs, counting the number of bugs that I have fixed is not at all motivational to me, because it is independent of the number that may still exist, and is also affects the total value I'm adding to my company's customers in only the smallest possible way. Relating each bug to a happy customer, however, *is* personally motivating to me.
-
-Next [How to be Widely Trusted](02-How to be Widely Trusted.md)
+Next [如何被广泛信任](02-How to be Widely Trusted.md)
