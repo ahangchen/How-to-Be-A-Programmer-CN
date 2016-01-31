@@ -1,17 +1,17 @@
-# How to Stress Test
+# 如何进行压力测试
 
-Stress testing is fun. At first it appears that the purpose of stress testing is to find out if the system works under a load. In reality, it is common that the system does work under a load but fails to work in some way when the load is heavy enough. I call this *hitting the wall* or *bonking*<sup>[1]</sup>. There may be some exceptions, but there is almost always a ‘wall’. The purpose of stress testing is to figure out where the wall is, and then figure out how to move the wall further out.
+压力测试很有趣，一开始好像压测的目的是找出系统在负载下能不能工作。现实中，系统在负载下确实能工作，但在负载足够中的某些情况下不能工作。我把这叫做*碰壁*或*撞响*。可能会有异常，但大多数情况下会有这么一堵“墙”。压测的目的是为了指出墙在哪里，然后指出怎么把墙移得远些。
 
-A plan for stress testing should be developed early in the project, because it often helps to clarify exactly what is expected. Is two seconds for a web page request a miserable failure or a smashing success? Is 500 concurrent users enough? That, of course, depends, but one must know the answer when designing the system that answers the request. The stress test needs to model reality well enough to be useful. It isn't really possible to simulate 500 erratic and unpredictable humans using a system concurrently very easily, but one can at least create 500 simulations and try to model some part of what they might do.
+压测计划需要在工程的早期就规划好，因为它经常有助于解释真实期望的具体是什么。两秒的网页请求是一个悲伤的失败还是一个了不起的成功？500个并发用户是否足够？这，当然，视情况而定，但一个人在设计系统时就应该知道满足请求的答案。压测需要足够好地为现实建模，使之足够有用。非常容易地模拟500个不稳定并且不可预测的人并行使用系统不是真的可能的，但我们可以至少创造500个模拟（用户），然后尝试模拟他们可能做的部分事情。
 
-In stress testing, start out with a light load and load the system along some dimension - such as input rate or input size - until you hit the wall. If the wall is too close to satisfy your needs, figure out which resource is the bottleneck (there is usually a dominant one.) Is it memory, processor, I/O, network bandwidth, or data contention? Then figure out how you can move the wall. Note that moving the wall, that is, increasing the maximum load the system can handle, might not help or might actually hurt the performance of a lightly loaded system. Usually performance under heavy load is more important than performance under a light load.
+在压测中，从轻负载开始，然后为系统在一些维度上增加复杂 - 比如输入频率和输入规模 - 直到你抵达那堵墙。如果墙太近了以至于不能满足你的需要，指出哪个资源是瓶颈（这通常是那个主要的资源）。它是内存？处理器？I/O？网络带卡？还是数据连接？然后指出你可以怎么移动那堵墙。记录下移动墙的那个要素，也就是增加了系统可以处理的负载的那个要素，可能不能真正在低负载系统下产生危害。通常重负载下的表现比轻负载下更重要。
 
-You may have to get visibility into several different dimensions to build up a mental model of it; no single technique is sufficient. For instance, logging often gives a good idea of the wall-clock time between two events in the system, but unless carefully constructed, doesn't give visibility into memory utilization or even data structure size. Similarly, in a modern system, a number of computers and many software systems may be cooperating. Particularly when you are hitting the wall (that is, the performance is non-linear in the size of the input) these other software systems may be a bottleneck. Visibility into these systems, even if only measuring the processor load on all participating machines, can be very helpful.
+你必须具有对几个不同维度的可见性，以此来为之构建一个思维模型；每个单一的技术是可持续的。例如，日志经常是给出系统中两个事件间的挂钟时间的好主意。但除非仔细构建，日志不会给煮内存使用的可见性甚至是数据结构的大小。相似的，在现代系统里，大量电脑和许多软件系统是可做的。特别是在你碰到那堵墙时（也就是，表现与输入不成线性比例时），这些软件系统可能成为瓶颈。对这些系统的透视力，甚至仅仅对所有参与工作的机器的处理器做测量，都可能是非常有帮助的。
 
-Knowing where the wall is is essential not only to moving the wall, but also to providing predictability so that the business can be managed effectively.
+意识到墙的存在不仅对移动墙是非常关键的，而且对于提供预报能力也是如此。这样公司可以得到更高效的管理。
 
 ---
 
-<sup>[1]</sup> "to hit" 
+<sup>[1]</sup> "撞响"
 
-Next [How to Balance Brevity and Abstraction](05-How to Balance Brevity and Abstraction.md)
+Next [如何在简洁与抽象间平衡](05-How to Balance Brevity and Abstraction.md)

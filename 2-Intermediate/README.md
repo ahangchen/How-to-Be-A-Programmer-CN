@@ -7,7 +7,7 @@
 	- [如何进行压力测试](Personal-Skills/04-How to Stress Test.md)
 	- [如何在简洁与抽象间平衡](Personal-Skills/05-How to Balance Brevity and Abstraction.md)
 	- [如何学习新技能](Personal-Skills/06-How to Learn New Skills.md)
-	- [学会分类](Personal-Skills/07-Learn to Type.md)
+	- [学会打字](Personal-Skills/07-Learn to Type.md)
 	- [如何做集成测试](Personal-Skills/08-How to Do Integration Testing.md)
 	- [沟通语言](Personal-Skills/09-Communication Languages.md)
 	- [重型工具](Personal-Skills/10-Heavy Tools.md)

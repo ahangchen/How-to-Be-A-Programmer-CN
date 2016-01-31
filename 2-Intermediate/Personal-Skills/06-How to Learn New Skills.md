@@ -1,13 +1,13 @@
-# How to Learn New Skills
+# 如何学习新技能
 
-Learning new skills, especially non-technical ones, is the greatest fun of all. Most companies would have better morale if they understood how much this motivates programmers.
+学习新技能，尤其是非技术类，是最大的一种乐趣。大多数公司在理解了这对程序员的激励程度时，会更加地有斗志。
 
-Humans learn by doing. Book-reading and class-taking are useful. But could you have any respect for a programmer who had never written a program? To learn any skill, you have to put yourself in a forgiving position where you can exercise that skill. When learning a new programming language, try to do a small project in it before you have to do a large project. When learning to manage a software project, try to manage a small one first.
+人类通过*做*来学。读书和上课是有用的。但你对一个从不写程序的程序员会有任何敬意吗？学习任何技能，你应该把自己放在一个可以练习技能的宽容的位置。当学习一个新的编程语言时，在你必须做一个大工程前，试着用它做一个小的工程。学习管理软件项目时，先试着管理一个小的工程。
 
-A good mentor is no replacement for doing things yourself, but is a lot better than a book. What can you offer a potential mentor in exchange for their knowledge? At a minimum, you should offer to study hard so their time won't be wasted.
+一个好的导师你做事情的替代品，而是比一本书更好的存在。你可以提供什么给一个潜在的导师，作为他的知识的交换？至少，你应该努力学习这样他们的时间才不会被浪费。
 
-Try to get your boss to let you have formal training, but understand that it often not much better than the same amount of time spent simply playing with the new skill you want to learn. It is, however, easier to ask for training than playtime in our imperfect world, even though a lot of formal training is just sleeping through lectures waiting for the dinner party.
+试着让你的boss给你正规的训练，但必须知道，这通常并不会比，把相同量的时间花在，简单地用你想学的技能玩耍上，要好多少。然而，要求训练比在我们不完美世界里的玩耍时间要容易得多，尽管大量正规训练只是在课程上睡觉，等着晚餐聚会。
 
-If you lead people, understand how they learn and assist them by assigning them projects that are the right size and that exercise skills they are interested in. Don't forget that the most important skills for a programmer are not the technical ones. Give your people a chance to play and practice courage, honesty, and communication.
+如果你领导团队，需要知道他们是怎么学习的，并且通过给他们安排适量的和可以锻炼他们感兴趣的技能的工程。不要忘记程序员最重要的技能不是技术。让你的团队成员有一个机会去玩，锻炼勇气，诚实，以及交流。
 
-Next [Learn to Type](07-Learn to Type.md)
+Next [学会分类](07-Learn to Type.md)
