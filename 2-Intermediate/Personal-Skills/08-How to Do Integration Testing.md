@@ -1,7 +1,7 @@
-# How to Do Integration Testing
+# 如何做集成测试
 
-Integration testing is the testing of the integration of various components that have been unit tested. Integration is expensive and it comes out in the testing. You must include time for this in your estimates and your schedule.
+集成测试是对已经进行单元测试的各个部分的一种整合测试。集成是昂贵的，并且它出现在测试中。你必须把这个考虑到你的预计和时间表里。
 
-Ideally you should organize a project so that there is not a phase at the end where integration must explicitly take place. It is far better to gradually integrate things as they are completed over the course of the project. If it is unavoidable estimate it carefully.
+理想情况下，你应该这样组织一个项目，使得最后没有一个阶段是集成必须显式进行的。这比在项目过程中，随着事情完成逐渐集成事情要好得多。如果这是不可笔妙的，仔细评估。
 
-Next [Communication Languages](09-Communication Languages.md)
+Next [交流语言](09-Communication Languages.md)

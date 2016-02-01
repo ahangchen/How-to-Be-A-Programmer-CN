@@ -1,11 +1,11 @@
-# Communication Languages
+# 交流语言
 
-There are some languages, that is, formally defined syntactic systems, that are not programming languages but *communication languages* - they are designed specifically to facilitate communication through standardization. In 2003 the most important of these are UML, XML, and SQL. You should have some familiarity with all of these so that you can communicate well and decide when to use them.
+在语法系统里，有一些正式定义的，非编程语言但是*交流语言*的语言，它们为促进交流而非标准而特别设计。2003年，最重要的这种语言有：UML,XML, SQL。你应该熟悉这些东西，这样你就可以很好地交流并且决定什么时候去使用它们。
 
-UML is a rich formal system for making drawings that describe designs. Its beauty lies in that it is both visual and formal, capable of conveying a great deal of information if both the author and the audience know UML. You need to know about it because designs are sometimes communicated in it. There are very helpful tools for making UML drawings that look very professional. In a lot of cases UML is too formal, and I find myself using a simpler *boxes and arrows* style for design drawings. But I'm fairly sure UML is at least as good for you as studying Latin.
+UML是一个丰富的用图表描述设计的正式系统。它的美丽之处在于它既虚拟又正式，在作者和观众都了解UML的前提下，可以容纳大量的信息。你需要了解它，因为设计有时候就是用这种方式交流的。有一些非常有用的工具可以让制作UML图看起来非常专业。在很多情况下，UML太正式了，我自己会使用更简单的*箱子与箭头*的风格来设计图标。但我非常确定UML对你来说至少更学习拉丁语一样有用（译者注：国外拉丁语使用很广泛）。
 
-XML is a standard for defining new standards. It is not a solution to data interchange problems, though you sometimes see it presented as if it was. Rather, it is a welcome automation of the most boring part of data interchange, namely, structuring the representation into a linear sequence and parsing back into a structure. It provides some nice type- and correctness-checking, though again only a fraction of what you are likely to need in practice.
+XML是设计新标准的标准。这不是一个数据间交换的问题的解决方案，尽管你有时候会看到它在这种情况下出现。更进一步，它是一种受欢迎的对大部分数据交换的无聊部分的自动化，也就是，把表现结构化为线性序列，还有将其转回一个结构。它提供了一些漂亮的类型和正确性检查，尽管，又一次，实践中你可能需要的只是其中的一部分。
 
-SQL is a very powerful and rich data query and manipulation language that is not quite a programming language. It has many variations, typically quite product-dependent, which are less important than the standardized core. SQL is the *lingua franca* of relational databases. You may or may not work in any field that can benefit from an understanding of relational databases, but you should have a basic understanding of them and the syntax and meaning of SQL.
+SQL是一种非常有力而丰富的数据查询和操作语言，而非一种编程语言。它有许多种类，典型地依赖于产品，但这没有标准核心那么重要。SQL是关系数据库的*巧舌弗兰卡*。你可能可以也可能不可以在任何领域从对关系数据库的理解中受益，但你必须对它们和SQL的语法和含义有基本的理解。
 
-Next [Heavy Tools](10-Heavy Tools.md)
+Next [重型工具](10-Heavy Tools.md)
