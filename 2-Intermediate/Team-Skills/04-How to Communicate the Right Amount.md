@@ -1,7 +1,7 @@
-# How to Communicate the Right Amount
+# 如何适量交流
 
-Carefully consider the cost of a meeting; it costs *its duration multiplied by the number of participants*. Meetings are sometimes necessary, but smaller is usually better. The quality of communication in small meetings is better, and less time overall is wasted. If any one person is bored at a meeting take this as a sign that the meeting should be smaller.
+仔细考虑会议的代价：这花费了*随参与者数量倍增的时间*。会议有时候是必要的，但越小越好。小会议的交流质量更好，过度浪费的时间更少。如果一个人在会议感到厌烦，把这当做会议应该更小的标识。
 
-Everything possible should be done to encourage informal communication. More useful work is done during lunches with colleagues than during any other time. It is a shame that more companies do not recognize nor support this fact.
+非正式交流值得做任何事情去鼓励之。更多有用的沟通工作在同事间的午饭可以被实施，而非其他的时间。许多公司没有意识到或者不支持这一点，这是一种遗憾。
 
-Next [How to Disagree Honestly and Get Away with It](05-How to Disagree Honestly and Get Away with It.md)
+Next [如何直言异议以及避免](05-How to Disagree Honestly and Get Away with It.md)

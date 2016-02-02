@@ -1,9 +1,9 @@
-# How to Manage Consultants
+# 如何管理咨询师
 
-Use consultants, but don't rely on them. They are wonderful people and deserve a great deal of respect. Since they get to see a lot of different projects, they often know more about specific technologies and even programming techniques than you will. The best way to use them is as educators in-house that can teach by example.
+使用咨询师，但不要依赖他们。他们是神器的人，非常值得尊敬。因为他们看过许多不同的通常，他们通常比你知道更多具体技术，甚至是编程技术。最好的使用他们的方式是像家教那样用例子教学那样。
 
-However, they usually cannot become part of the team in the same sense that regular employees are, if only because you may not have enough time to learn their strengths and weaknesses. Their financial commitment is much lower. They can move more easily. They may have less to gain if the company does well. Some will be good, some will be average, and some will be bad, but hopefully your selection of consultants will not be as careful as your selection of employees, so you will get more bad ones.
+然而，他们通常不能成为在像正常员工那样用相同的感觉融入团队，可能仅仅是因为你可能没有足够的时间去学习他们的优点和缺点。他们的财务承诺更低。他们更容易离开。如果公司做得好，他们可能得到的更少。有些可能是好的，有些可能与平均水平一致，有些可能挺糟糕，但希望你对咨询师的选择不会像你对雇员的选择那样仔细，这样你会获得更多不好的咨询师。
 
-If consultants are going to write code, you must review it carefully as you go along. You cannot get to the end of the a project with the risk of a large block of code that has not been reviewed. This is true of all team members, really, but you will usually have more knowledge of the team members closer to you.
+如果咨询师要写代码，你必须在你使用它们前仔细review。有着大段带风险的代码，你到不了工程的终点。这真的对所有的团队成员都是成立的，但你通常有更多与你接近的团队成员的知识。
 
-Next [How to Communicate the Right Amount](04-How to Communicate the Right Amount.md)
+Next [如何适量交流](04-How to Communicate the Right Amount.md)

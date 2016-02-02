@@ -15,7 +15,7 @@
 - 团队技能
 	- [如何管理开发时间](Team-Skills/01-How to Manage Development Time.md)
 	- [如何管理第三方软件的风险](Team-Skills/02-How to Manage Third-Party Software Risks.md)
-	- [如何管理客户咨询](Team-Skills/03-How to Manage Consultants.md)
+	- [如何管理咨询师](Team-Skills/03-How to Manage Consultants.md)
 	- [如何适量交流](Team-Skills/04-How to Communicate the Right Amount.md)
 	- [如何直言反对意见以及避免如此](Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
 - 评估

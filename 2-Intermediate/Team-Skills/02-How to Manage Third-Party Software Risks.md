@@ -1,11 +1,11 @@
-# How to Manage Third-Party Software Risks
+# 如何管理第三方软件危机
 
-A project often depends on software produced by organizations that it does not control. There are great risks associated with third party software that must be recognized by everyone involved.
+一个工程通常依赖于它所不能控制的组织，第三方软件危机是每个相关的人都必须意识到的。
 
-Never, ever, rest any hopes on *vapour*. Vapour is any alleged software that has been promised but is not yet available. This is the surest way to go out of business. It is unwise to be merely sceptical of a software company's promise to release a certain product with a certain feature at a certain date; it is far wiser to ignore it completely and forget you ever heard it. Never let it be written down in any documents used by your company.
+永远也不要把希望放在*蒸汽*上面。蒸汽是任何所谓的尚未可用然而声称可用的软件。这是最确定的一种破产的方式。仅仅怀疑一个软件公司在某个日期对于某个软件产品的某个特性的承诺是不明智的。更明智的做法是完全忽略它，并且忘记你曾听说过这种事。不要在你的公司使用的任何文档里写下这些东西。
 
-If third-party software is not vapour, it is still risky, but at least it is a risk that can be tackled. If you are considering using third-party software, you should devote energy early on to evaluating it. People might not like to hear that it will take two weeks or two months to evaluate each of three products for suitability, but it has to be done as early as possible. The cost of integrating cannot be accurately estimated without a proper evaluation.
+如果一个第三方软件不是蒸汽，它仍然是有风险的，但至少它是一个可以处理的蒸汽。如果你正在考虑使用第三方软件， 你应该早点投入一点精力去评估它。人们可能没听说过，评估三个产品的适合性要花两个星期还是两个月，但这必须尽可能及早做。没有合适的估计，集成的代价不能被准确计算。
 
-Understanding the suitability of existing third party software for a particular purpose is very tribal knowledge. It is very subjective and generally resides in experts. You can save a lot of time if you can find those experts. Often times a project will depend on a third-party software system so completely that if the integration fails the project will fail. Express risks like that clearly in writing in the schedule. Try to have a contingency plan, such as another system that can be used or the ability to write the functionality yourself if the risk can't be removed early. Never let a schedule depend on vapour.
+理解已有的为某个特殊目的的第三方软件的适用性是非常见仁见智的东西。这是非常客观的，并且通常住在专家心里。如果你发现了那些专家，你可以节省很多时间。很多时候，一个工程会如此完全地依赖于第三方软件，以至于如果集成失败了，工程就失败了。像时间表里写的那样清晰地表达了危机。如果危机不能被尽早消除的花啊，试着订一个为以外准备的计划，比如可用的第二方案，或者自己写下功能点的能力。永远不要让时间表依赖于蒸汽。
 
-Next [How to Manage Consultants](03-How to Manage Consultants.md)
+Next [如何管理咨询师](03-How to Manage Consultants.md)
