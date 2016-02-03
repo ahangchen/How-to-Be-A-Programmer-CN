@@ -18,10 +18,10 @@
 	- [如何管理咨询师](Team-Skills/03-How to Manage Consultants.md)
 	- [如何适量交流](Team-Skills/04-How to Communicate the Right Amount.md)
 	- [如何直言反对意见以及避免如此](Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
-- 评估
+- 判断
 	- [如何在开发质量和开发时间权衡](Judgment/01-How to Tradeoff Quality Against Development Time.md)
 	- [如何管理软件系统依赖](Judgment/02-How to Manage Software System Dependence.md)
-	- [如何判断一个软件是否太粗糙了](Judgment/03-How to Decide if Software is Too Immature.md)
+	- [如何判断一个软件是否太不成熟了](Judgment/03-How to Decide if Software is Too Immature.md)
 	- [如何决定购买还是构建](Judgment/04-How to Make a Buy vs Build Decision.md)
 	- [如何专业地成长](Judgment/05-How to Grow Professionally.md)
 	- [如何评估面试](Judgment/06-How to Evaluate Interviewees.md)

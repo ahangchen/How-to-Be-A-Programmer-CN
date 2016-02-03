@@ -69,7 +69,7 @@
 	- 评判
 		- [如何权衡开发质量与开发时间](2-Intermediate/Judgment/01-How to Tradeoff Quality Against Development Time.md)
 		- [如何管理软件系统依赖](2-Intermediate/Judgment/02-How to Manage Software System Dependence.md)
-		- [如何评判一个软件是否太粗糙了](2-Intermediate/Judgment/03-How to Decide if Software is Too Immature.md)
+		- [如何评判一个软件是否太不成熟了](2-Intermediate/Judgment/03-How to Decide if Software is Too Immature.md)
 		- [如何决定购买还是构建](2-Intermediate/Judgment/04-How to Make a Buy vs Build Decision.md)
 		- [如何专业地成长](2-Intermediate/Judgment/05-How to Grow Professionally.md)
 		- [如何评估面试](2-Intermediate/Judgment/06-How to Evaluate Interviewees.md)

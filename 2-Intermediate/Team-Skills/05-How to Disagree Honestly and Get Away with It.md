@@ -1,11 +1,11 @@
-# How to Disagree Honestly and Get Away with It
+# 如何直言异议以及如何避免
 
-Disagreement is a great opportunity to make a good decision, but it should be handled delicately. Hopefully you feel that you have expressed your thoughts adequately and been heard before the decision is made. In that case there is nothing more to say, and you should decide whether you will stand behind the decision even though you disagree with it. If you can support this decision even though you disagree, say so. This shows how valuable you are because you are independent and are not a yes-man, but respectful of the decision and a team player.
+异议是一个做出好决定的绝佳机会，但这需要被谨慎处理。你可能会觉得你充分的表达了你的想法，并且在决定做出前，你的意见已经被听取。这种情况下，没有什么可以再说的，你应该决定你是否要支持这个决定，即使你不同意它。如果你可以在自己不同意的情况下，支持这个决定，就这样说实话。这展示了你是多么有价值，因为你是独立的，不是一个唯唯诺诺之人，同时是一个尊重决定的团队成员。
 
-Sometimes a decision that you disagree with will be made when the decision makers did not have the full benefit of your opinion. You should then evaluate whether to raise the issue on the basis of the benefit to the company or tribe. If it is a small mistake in your opinion, it may not be worth reconsidering. If it is a large mistake in your opinion, then of course you must present an argument.
+有时候一个你不同意的决定，会在决策者没有充分听取你的观点前做出。你应该评估是否应该在对公司和集体的基础上提出这个话题。如果在你看来这只是一个小错误，这可能不值得重新考虑。如果在你看来这是一个大错，你当然必须提出异议。
 
-Usually, this is not a problem. In some stressful circumstances and with some personality types this can lead to things being taken personally. For instance, some very good programmers lack the confidence needed to challenge a decision even when they have good reason to believe it is wrong. In the worst of circumstances the decision maker is insecure and takes it as a personal challenge to their authority. It is best to remember that in such circumstances people react with the reptilian part of their brains. You should present your argument in private, and try to show how new knowledge changes the basis on which the decision was made.
+通常，这不是一个问题。在一些充满压力的环境下，在一些个人因素下，这会导致事情个人化。例如，一些非常牛逼的程序员在他们有好的理由认为一件东西是错的时候，缺乏挑战决议的信心。在最糟的情况下，决策者是不安全的，并会把这变成一个对权威的挑战。最好记住，这种情况下，人们会用他们大脑中爬虫动物的部分来做出反应。你应该私下提出你的争议，然后尝试展示新的知识是如何改变决议做出的基础的。
 
-Whether the decision is reversed or not, you must remember that you will never be able to say ‘I told you so!’ since the alternate decision was fully explored.
+不管决议是否被推翻，你必须记住你永远不能说出“我的话撂这了，我早就这样告诉你了”这样的话，因为这个决定已经得到了充分探讨。
 
-Next [Judgment - How to Tradeoff Quality Against Development Time](../Judgment/01-How to Tradeoff Quality Against Development Time.md)
+Next [判断 - 如何在开发质量和开发时间间权衡](../Judgment/01-How to Tradeoff Quality Against Development Time.md)

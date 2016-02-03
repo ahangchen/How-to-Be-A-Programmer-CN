@@ -1,13 +1,13 @@
-# How to Tradeoff Quality Against Development Time
+# 如何在开发质量与开发时间权衡
 
-Software development is always a compromise between what the project does and getting the project done. But you may be asked to tradeoff quality to speed the deployment of a project in a way that offends your engineering sensibilities or business sensibilities. For example, you may be asked to do something that is a poor software engineering practice and that will lead to a lot of maintenance problems.
+软件开发总是在工程该做什么与完成工程间妥协。但你可能被要求以牺牲你的工程适用性或商业适用性的方式，去交换工程的开发速度。例如，你可能被要求做一些糟糕的可能导致大量维护问题的软件工程实践。
 
-If this happens your first responsibility is to inform your team and to clearly explain the cost of the decrease in quality. After all, your understanding of it should be much better than your boss's understanding. Make it clear what is being lost and what is being gained, and at what cost the lost ground will be regained in the next cycle. In this, the visibility provided by a good project plan should be helpful. If the quality tradeoff affects the quality assurance effort, point that out (both to your boss and quality assurance people). If the quality tradeoff will lead to more bugs being reported after the quality assurance period, point that out.
+如果这发生了，你的首要任务是通知你的团队，然后清楚地解释降低质量的代价。在这之后，你对这个问题的理解会比你的boss的理解还要更清晰。明白将会失去什么以及将要得到什么，以及在这次失去的东西，能在下一轮中得到什么。在这个过程中，由一个好工程提供的可见性应该会很有用。如果质量交换影响了质量保证工作，(向你的boss和质量保证部分)指出这个问题。如果质量交换会导致在之后的质量保证周期中出现更多的bug，指出来。
 
-If she still insists you should try to isolate the shoddiness into particular components that you can plan to rewrite or improve in the next cycle. Explain this to your team so that they can plan for it.
+如果她仍然坚持，你应该把劣质部分隔离到特殊的你可以在下一个开发周期计划重写或优化的组件中。向你的团队解释这个问题，这样他们可以为此做些计划。
 
-NinjaProgrammer at Slashdot sent in this gem:
+忍者程序员在Slashdot写下了这样的格言：
 
-> Remember that a good design will be resillient against poor code implementations. If good interfaces and abstractions exist throughout the code, then the eventual rewrites will be far more painless. If it is hard to write clear code that is hard to fix, consider what is wrong with the core design that is causing this.
+> 记住，一个好的设计会被糟糕的代码实现弹回。如果好的接口和抽象在代码中到处存在，最后的重写会更加痛苦。如果写难以修复的清晰代码很困难，考虑什么与核心设计冲突的东西导致了这个问题。
 
-Next [How to Manage Software Dependence](02-How to Manage Software System Dependence.md)
+Next [如何管理软件依赖](02-How to Manage Software System Dependence.md)
