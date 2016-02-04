@@ -1,16 +1,16 @@
-# How to Make a Buy vs. Build Decision
+# 如何做购买还是构建的决定
 
-An entrepreneurial company or project that is trying to accomplish something with software has to constantly make so-called *buy vs. build* decisions. This turn of phrase is unfortunate in two ways: it seems to ignore open-source and free software which is not necessarily *bought*. Even more importantly, it should perhaps be called an *obtain and integrate vs. build here and integrate* decision because the cost of integration must be considered. This requires a great combination of business, management, and engineering savvy.
+一个尝试用软件完成一些任务的企业级公司或工程必须不断做所谓的*buy vs. build*的决定。这个问题的不幸在两个方面：似乎忽视了不必*被购买*的开源软件和自由软件。更重要的是，这可能应该被称作*获取与集成 vs. 购买与集成*决定，因为集成的代价需要被考虑。这需要商业上，管理上，工程理解上的大量结合。
 
-- How well do your needs match those for which it was designed?
-- What portion of what you buy will you need?
-- What is the cost of evaluating the integration?
-- What is the cost of integration?
-- Will buying increase or decrease long term maintenance costs?
-- Will building it put you in a business position you don't want to be in?
+- 你的需要与它的设计意图有多接近？
+- 对于你购买的软件，你想要怎样的可移植性？
+- 评估集成的代价是什么？
+- 集成的代价是什么？
+- 购买会增加还是减少长期维护代价？
+- 构建会把你放在一个你不想要的商业位置吗？
 
-You should think twice before building something that is big enough to serve as the basis for an entire other business. Such ideas are often proposed by bright and optimistic people that will have a lot to contribute to your team. If their idea is compelling, you may wish to change your business plan; but do not invest in a solution bigger than your own business without conscious thought.
+三思，如果你想要购买一些大到足够成为另一整个商品的基础的东西。这样的想法通常是乐观积极的将会对你的团队做出许多贡献的人提出来的。如果他们的想法很引人注目，你可能会想要改变你的商业计划，但不要在没有周全考虑前就投资一个比你自己的商业还大的解决方案。
 
-After considering these questions, you should perhaps prepare two draft project plans, one for building and one for buying. This will force you to consider the integration costs. You should also consider the long term maintenance costs of both solutions. To estimate the integration costs, you will have to do a thorough evaluation of the software before you buy it. If you can't evaluate it, you will assume an unreasonable risk in buying it and you should decide against buying that particular product. If there are several buy decisions under consideration, some energy will have to be spent evaluating each.
+在考虑了这些问题后，你可能应当准备两个工程计划草案，一个给购买，一个给构建。这会强迫你考虑集成代价。你也应当考虑两种措施的长期维护代价。为了评估集成代价，你必须在购买软件前对它做一个彻底的评估。如果你不能评估好它，你可以假设购买它会有一个无端的风险，你应该以此决定是否购买特定的产品。如果考虑后有几个购买决定，需要花一些精力去评估每个决定。
 
-Next [How to Grow Professionally](05-How to Grow Professionally.md)
+Next [如何专业地成长](05-How to Grow Professionally.md)

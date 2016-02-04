@@ -1,15 +1,15 @@
-# How to Know When to Apply Fancy Computer Science
+# 如何决定什么时候使用奇妙的计算机科学
 
-There is a body of knowledge about algorithms, data structures, mathematics, and other gee-whiz stuff that most programmers know about but rarely use. In practice, this wonderful stuff is too complicated and generally unnecessary. There is no point in improving an algorithm when most of your time is spent making inefficient database calls, for instance. An unfortunate amount of programming consists of getting systems to talk to each other and using very simple data structures to build a nice user interface.
+有这样一些，算法，数据结构，数学，还有其他极客范的大多数程序员知道但很少了解的东西。实践中，这种奇妙的东西太复杂了，通常是不需要的。例如，当你花费大多数时间在低效的数据库调用上时，提高算法是没有什么用的。不幸的大量编程由让系统相互交流以及使用非常简单的数据结构去构建漂亮的用户界面组成。
 
-When is high technology the appropriate technology? When should you crack a book to get something other than a run-of-the-mill algorithm? It is sometimes useful to do this but it should be evaluated carefully.
+高科技什么时候是合适的科技？你什么时候应当打开一本书去找一些东西而非一个毫秒级算法？做这些有时候是有用的，但这需要被小心评估。
 
-The three most important considerations for the potential computer science technique are:
+对于潜在的计算机技术三个最重要的考虑是：
 
-- Is it well encapsulated so that the risk to other systems is low and the overall increase in complexity and maintenance cost is low?
-- Is the benefit startling (for example, a factor of two in a mature system or a factor of ten in a new system)?
-- Will you be able to test and evaluate it effectively?
+- 它是否充分封装所以其他低级系统风险和复杂度过量增加以及维护代价很低？
+- 好处是否是令人惊奇的（例如，成熟系统的两倍或新系统的十倍？）
+- 你能够高效测试和评估它吗？
 
-If a well-isolated algorithm that uses a slightly fancy algorithm can decrease hardware cost or increase performance by a factor of two across an entire system, then it would be criminal not to consider it. One of the keys to arguing for such an approach is to show that the risk is really quite low, since the proposed technology has probably been well studied, the only issue is the risk of integration. Here a programmer's experience and judgement can truly synergize with the fancy technology to make integration easy.
+如果一个充分独立算法使用了些许奇妙的可以减少硬件消耗或增加整个系统和的两倍性能表现的算法，不考虑它可能是有罪的。争论这样一个方法的一个关键是，展示风险确实是相当的低，因为目标技术可能被充分研究过了，唯一的话题是集成的风险。在这里一个程序员的经验和评估可以真的与奇妙的算法协作使得集成变得容易。
 
-Next [How to Talk to Non-Engineers](08-How to Talk to Non-Engineers.md)
+Next [如何与非工程师交谈](08-How to Talk to Non-Engineers.md)

@@ -1,15 +1,15 @@
-# How to Evaluate Interviewees
+# 如何评估面试者
 
-Evaluating potential employees is not given the energy it deserves. A bad hire, like a bad marriage, is terrible. A significant portion of everyone's energy should be devoted to recruitment, though this is rarely done.
+评估可能的员工，却没有得到它应得的能量。一个糟糕的雇佣，就像糟糕的婚姻，是非常糟糕的。每个人的能量的一个重要的部分应该用于补充，尽管这很少发生。
 
-There are different interviewing styles. Some are torturous, designed to put the candidate under a great deal of stress. This serves a very valuable purpose of possibly revealing character flaws and weaknesses under stress. Candidates are no more honest with interviewers than they are with themselves, and the human capacity for self-deception is astonishing.
+有不同的面试风格。有的是折磨人的，设计用来把候选人放在巨大压力下。这是为了这样一个有用的目的：在压力下折射出性格缺陷和弱点。候选人不会对他们自己之外的其他面试官更诚实，而且，人的自欺能力是令人惊奇的。
 
-You should, at a minimum, give the candidate the equivalent of an oral examination on the technical skills for two hours. With practice, you will be able to quickly cover what they know and quickly retract from what they don't know to mark out the boundary. Interviewees will respect this. I have several times heard interviewees say that the quality of the examination was one of their motivations for choosing a company. Good people want to be hired for their skills, not where they worked last or what school they went to or some other inessential characteristic.
+你应当，最少，对候选人进行两个小时的与口头考核等价的技术技能考核。实践后，你会能够快速了解他们知道什么，快速收缩他们不知道的来标明边界。面试者会尊重这件事请。我有几次听面试者说面试的质量是他们选择公司的一个动机。聪明人会因他们的技能而被雇佣，而非他们之前工作过的地方或他们上了哪个学校或者一些无关紧要的特征。
 
-In doing this, you should also evaluate their ability to learn, which is far more important than what they know. You should also watch for the whiff of brimstone that is given off by difficult people. You may be able to recognize it by comparing notes after the interview, but in the heat of the interview it is hard to recognize. How well people communicate and work with people is more important than being up on the latest programming language.
+做这些事情，你也应当评估他们的学习能力，这比他们所知道的要更加重要得多。你也应当不同的人的戾气。你可能能够在面试后通过比较笔记来识别这一点，但在面试的热烈环境中这很难分辨。人们交流的能力以及与人合作的能力比在最新的编程语言上领先更为重要。
 
-A reader has had good luck using a ‘take-home’ test for interviewees. This has the advantage that can uncover the interviewee that can present themselves well but can't really code - and there are many such people. I personally have not tried this technique, but it sounds sensible.
+一个读者有“在家”测验面试的经验。这有一个优点是揭露了一些面试者能良好地自我表现但不能写代码的缺点 - 这样的人是很多的。我个人没有尝试过这种技术，但这听起来挺合适的。
 
-Finally, interviewing is also a process of selling. You should be selling your company or project to the candidate. However, you are talking to a programmer, so don't try to colour the truth. Start off with the bad stuff, then finish strong with the good stuff.
+最后，面试也是一个销售的过程。你应该把你的公司或工程销售给候选人。然而，你是在与程序员谈话，所以不要尝试改变事实。从没有坏员工开始，到与好员工一起强大而结束。
 
-Next [How to Know When to Apply Fancy Computer Science](07-How to Know When to Apply Fancy Computer Science.md)
+Next [怎么决定什么时候使用奇妙的计算机科学](07-How to Know When to Apply Fancy Computer Science.md)

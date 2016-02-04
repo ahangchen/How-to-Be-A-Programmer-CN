@@ -1,11 +1,11 @@
-# How to Grow Professionally
+# 如何专业地成长
 
-Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people's contribution to the success of the larger organization, as well as things as that help you personally.
+承担超过你的权威的责任。扮演你想要扮演的角色。对人们对更大组织的成功的贡献以及对你个人的帮助表示感谢与欣赏。
 
-If you want to become a team leader, instigate the formation of consensus. If you want to become a manager, take responsibility for the schedule. You can usually do this comfortably while working with a leader or a manager, since this frees them up to take greater responsibility. If that is too much to try, do it a little at a time.
+如果你想成为团队的领导，鼓动团结的形式。如果你想成为一个精力，担起规划的责任。你通常可以在和领导或经理在一起时，舒服地完成这些事情，因为这使得他们可以抽空去承担更大的责任。如果这太多了以至于你不能尝试，一次只做一点点。
 
-Evaluate yourself. If you want to become a better programmer, ask someone you admire how you can become like them. You can also ask your boss, who will know less but have a greater impact on your career.
+评估你自己。如果你想要变成一个好的程序员，询问一些你欣赏的人你怎样才能变成他们那样。你也可以问你的boss，他可以告诉你的东西会少一些，但对你的事业会有更大的影响。
 
-Plan ways to learn new skills, both the trivial technical kind, like learning a new software system, and the hard social kind, like writing well, by integrating them into your work.
+计划学习新技能的方式，包括琐碎的技术类型，比如学习一个新的软件系统，和困难的社交类型，像漂亮的写作，把它们集成到你的工作中。
 
-Next [How to Evaluate Interviewees](06-How to Evaluate Interviewees.md)
+Next [如何评估面试](06-How to Evaluate Interviewees.md)
