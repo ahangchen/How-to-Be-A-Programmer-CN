@@ -1,19 +1,19 @@
-# How to Talk to Non-Engineers
+# 如何与非工程师交谈
 
-Engineers and programmers in particular are generally recognized by popular culture as being different from other people. This implies that other people are different from us. This is worth bearing in mind when communicating with non-engineers; you should always understand the audience.
+工程师和程序员（尤其是）通常被主流文化认为与他人不同。这意味着其他人与我们不同。与非工程师交流时，这是值得记在心里的，你应该时刻去理解观众。
 
-Non-engineers are smart, but not as grounded in creating technical things as we are. We make things. They sell things and handle things and count things and manage things, but they are not experts on making things. They are not as good at working together on teams as engineers are (there are no doubt exceptions.) Their social skills are generally as good as or better than engineers in non-team environments, but their work does not always demand that they practice the kind of intimate, precise communication and careful subdivisions of tasks that we do.
+非工程师聪明，但在创造技术类的东西不像我们那样踏实。我们制造东西。他们销售，处理，统计，管理，但他们在制造上不是专家。他们不像工程师那样擅长团队合作（毫无疑问会有例外。）他们的社交技能在非团队环境里通常不像工程师那么好，但他们的工作不总要求他们像我们那样进行亲密，珍贵的交流，以及细致的任务划分。
 
-Non-engineers may be too eager to please and they may be intimidated by you. Just like us, they may say ‘yes’ without really meaning it to please you or because they are a little scared of you, and then not stand behind their words.
+非工程师可能太渴望以至于不能被取悦和与你亲近，他们可能不在真的对你满意的时候却对你说“是”，或者是因为他们有点怕你，然后不会对你说实话。
 
-Non-programmers can understand technical things but they do not have the thing that is so hard even for us - technical judgement. They do understand how technology works, but they cannot understand why a certain approach would take three months and another one three days. (After all, programmers are anecdotally horrible at this kind of estimation as well.) This represents a great opportunity to synergize with them.
+非工程师可以理解技术的东西，但他们不会做那件甚至对我们来讲都很困难的事情 - 技术评审。他们确实理解技术是如何工作的，但他们不能理解为什么一个特定的方法需要花三个月而另一种方法要花三天。（毕竟，程序员对这种估计也感到事多得可怕。）这代表了一个巨大的和他们协作的机会。
 
-When talking to your team you will, without thinking, use a sort of shorthand, an abbreviated language that is effective because you will have much shared experience about technology in general and your product in particular. It takes some effort not to use this shorthand with those that don't have that shared experience, especially when members of your own team are present. This vocabulary create a wall between you and those that do not share it, and, even worse, wastes their time.
+与你的团队交谈时，你会，不假思索的，使用一种握手的形式，一种简单的语言更有效率，因为你通常对技术或者特别是你的产品会有许多的共享经验。
 
-With your team, the basic assumptions and goals do not need to be restated often, and most conversation focuses on the details. With outsiders, it must be the other way around. They may not understand things you take for granted. Since you take them for granted and don't repeat them, you can leave a conversation with an outsider thinking that you understand each other when really there is a large misunderstanding. You should assume that you will miscommunicate and watch carefully to find this miscommunication. Try to get them to summarize or paraphrase what you are saying to make sure they understand. If you have the opportunity to meet with them often, spend a little bit of time asking if you you are communicating effectively, and how you can do it better. If there is a problem in communication, seek to alter your own practices before becoming frustrated with theirs.
+与你的团队一起，基本的假设和目标不需要经常重申，大多数谈话集中于细节。与外人一起，就是另一回事了。他们可能不理解你认为理所当然的东西。由于你把这当做理所当然，并且没有重申它们，你可能认为你们相互理解，但事实上有一个巨大的误解，让与对方的谈话变成这个样子。你应当假设你会有错误的交流，并且仔细观察去找出这样的误解。试着总结或将你说的东西分点，来确保他们能够理解。如果你有机会经常与他们见面，花一点时间询问你是否在有效地交流，以及你可以怎样把它做得更好。如果交流有问题，在对他们失望前，寻找方法去提高你自己的实践。
 
-I love working with non-engineers. It provides great opportunities to learn and to teach. You can often lead by example, in terms of the clarity of your communication. Engineers are trained to bring order out of chaos, to bring clarity out of confusion, and non-engineers like this about us. Because we have technical judgement and can usually understand business issues, we can often find a simple solution to a problem.
+我喜欢与非工程师工作。这提供了绝大的机会来学习与传授。你可以经常由实例得到关于你的交流的阐述的指引。工程师被训练于从混乱中梳理秩序，从困惑中得到解释，非工程师会因此喜欢我们。因为我们有技术评审，并且通常可以理解商业话题，我们经常发现一个简单的方法来解决问题。
 
-Often non-engineers propose solutions that they think will make it easier on us out of kindness and a desire to do the right thing, when in fact a much better overall solution exists which can only be seen by synergizing the outsiders view with your technical judgement. I personally like Extreme Programming because it addresses this inefficiency; by marrying the estimation quickly to the idea, it makes it easier to find the idea that is the best combination of cost and benefit.
+很多时候非工程师会出于好意以及一种正确做事情的欲望去规划他们认为会让我们更容易的事情，事实上存在一个仅能通过借助你的技术评审协助外人的观点看到的好得多的方法。我个人喜欢极限编程因为它处理了这种低效，通过将估计快速与主意结合，使得发现成本与好处最佳结合的方法更加容易。
 
-Next [Advanced skills](../../3-Advanced)
+Next [高级技能](../../3-Advanced)
