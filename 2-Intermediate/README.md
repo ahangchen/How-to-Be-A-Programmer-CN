@@ -2,7 +2,7 @@
 
 - 个人技能
   - [如何保持活力](Personal-Skills/01-How to Stay Motivated.md)
-	- [如何被广泛信任](Personal-Skills/02-How to be Widely Trusted.md)
+  - [如何被广泛信任](Personal-Skills/02-How to be Widely Trusted.md)
 	- [如何在时间和空间权衡](Personal-Skills/03-How to Tradeoff Time vs Space.md)
 	- [如何进行压力测试](Personal-Skills/04-How to Stress Test.md)
 	- [如何在简洁与抽象间平衡](Personal-Skills/05-How to Balance Brevity and Abstraction.md)
