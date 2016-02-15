@@ -17,5 +17,5 @@
 	- [如何发展一个系统](Serving-Your-Team/07-How to Grow a System.md)
 	- [如何有效地交流](Serving-Your-Team/08-How to Communicate Well.md)
 	- [如何告诉别人他们不像知道的东西](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
-	- [如何处理管理难题](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+	- [如何处理管理神话](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
 	- [如何处理组织混乱](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)

@@ -94,7 +94,7 @@
         - [如何发展一个系统](3-Advanced/Serving-Your-Team/07-How to Grow a System.md)
         - [如何高效交流](3-Advanced/Serving-Your-Team/08-How to Communicate Well.md)
         - [如何把别人不想听的话说给他们听](3-Advanced/Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
-        - [如何处理管理难题](3-Advanced/Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+        - [如何处理管理神话](3-Advanced/Serving-Your-Team/10-How to Deal with Managerial Myths.md)
         - [如何处理混乱的组织](3-Advanced/Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
 4. [词汇表](4-Glossary.md)
 5. [附录 A - 书籍/网站](5-Bibliography.md)
