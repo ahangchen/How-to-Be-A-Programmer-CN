@@ -4,6 +4,8 @@
 
 译文地址 https://github.com/ahangchen/How-to-Be-A-Programmer-CN
 
+现在已经生成了[gitbook](https://ahangchen.gitbooks.io/how-to-be-a-programmer-zh-/content/index.html)
+
 如果你想要一起来改进这份翻译，可以给我提PR，不过希望翻译时尽量保持作者的原意。
 
 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
