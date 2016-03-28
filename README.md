@@ -1,15 +1,14 @@
 # How to be a Programmer 中文版
 
-原文出自 https://github.com/braydie/HowToBeAProgrammer
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+> 原文地址 https://github.com/braydie/HowToBeAProgrammer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">How To Be A Programmer: Community Version</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Robert L. Read with Community</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-译文地址 https://github.com/ahangchen/How-to-Be-A-Programmer-CN
+> 译文地址 https://github.com/ahangchen/How-to-Be-A-Programmer-CN
 
-现在已经生成了[gitbook](https://www.gitbook.com/book/ahangchen/how-to-be-a-programmer-cn/details)，可以方便地导出PDF。
+> 现在已经生成了[gitbook](https://www.gitbook.com/book/ahangchen/how-to-be-a-programmer-cn/details)，适合阅读，并且可以方便地导出PDF。
 
-如果你想要一起来改进这份翻译，可以给我提PR，不过希望翻译时尽量保持作者的原意。
+> 如果你想要一起来改进这份翻译，可以给我提PR，不过希望翻译时尽量保持作者的原意。
 
-文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
+> 文章中出现的一些词汇往往有特殊的含义，可以在[4-词汇表](4-Glossary.md)找到注释。
 
 ## 引言
 　　做一个好的程序员,困难而高尚。将一个软件工程集体愿景变为现实，最困难的地方在于与你的同事和顾客相处。编程很重要，这需要强大的智力和技能。 但在好的程序员看来，相比构建一个让客户和各种各样的同事都满意的软件系统，（纯粹的）编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我21岁时，希望别人告诉我的事。
