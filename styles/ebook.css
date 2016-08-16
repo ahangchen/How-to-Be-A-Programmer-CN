@@ -1,0 +1,215 @@
+* {
+    font-family: "Roboto",
+    "微软雅黑", "Microsoft YaHei",
+    "冬青黑体", "Hiragino Sans GB", "华文细黑", "STXihei",
+    "文泉驿微米黑", "WenQuanYi Micro Hei",
+    sans-serif;
+    color: #444;
+}
+.book-header .fa {
+   color: white;
+}
+blockquote {
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    border-left: 5px solid #00896C;
+    word-break: break-word;
+}
+.markdown-section blockquote p {
+    margin-botttom: 8px;
+}
+.markdown-section blockquote {
+    border-left: 5px solid #00896C;
+}
+.book-summary {
+   background: whitesmoke;
+}
+.book-summary ul.summary li.active>a{
+   color: #00896C;
+}
+.book-summary ul.summary li a {
+   color: #563F2E;
+}
+.book-header {
+   /*background: #FB9966;*/
+   background: #00896C;
+}
+.book-header h1 a, .book-header h1 a:hover {
+   color: white;
+}
+.book-body {
+   background: #fefdfa;
+}
+.markdown-section pre, code {
+  font-size: 0.85em;
+  font-family: Consolas, Inconsolata, Courier, monospace !important;
+  color: #444444；
+  background: #fdf6e3;
+}
+.markdown-section pre {
+  padding: 0;
+  background: #fdf6e3;
+}
+.markdown-section pre>code {
+   padding: 0.5em 0.8em;
+}
+.markdown-section code {
+  margin: 0 0.15em;
+  white-space: pre-wrap;
+  border: 1px solid #EAEAEA;
+  background: #fdf6e3;
+  border-radius: 3px;
+  display: inline; /* added to fix Yahoo block display of inline code */
+}
+
+
+.markdown-section pre code {
+  white-space: pre;
+  overflow: auto; /* fixes issue #70: Firefox/Thunderbird: Code blocks with horizontal scroll would have bad background colour */
+  border-radius: 3px;
+  border: 1px solid #CCC;
+  display: block; /* added to counteract the Yahoo-specific `code` rule; without this, code blocks in Blogger are broken */
+}
+.markdown-section strong {
+   color: #ff8a65;
+}
+.markdown-section a {
+   color: #00896C;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.3em 0 1em;
+  padding: 0;
+  font-weight: bold;
+  color:#FB9966; 
+}
+
+h1 {
+  font-size: 1.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  font-size: 1.3em;
+  border-bottom: 1px solid #eee;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5 {
+  font-size: 0.9em;
+}
+
+h6 {
+  font-size: 0.9em;
+}
+
+
+.hljs {
+  display: block !important;
+  overflow-x: auto !important;
+  padding: 0.5em !important; 
+  background: #fdf6e3 !important;
+  color: #657b83 !important;
+  -webkit-text-size-adjust: none;
+}
+
+.hljs-comment,
+.hljs-template_comment,
+.diff .hljs-header,
+.hljs-doctype,
+.hljs-pi,
+.lisp .hljs-string,
+.hljs-javadoc {
+  color: #93a1a1 !important;
+}
+
+/* Solarized Green */
+.hljs-keyword,
+.hljs-winutils,
+.method,
+.hljs-addition,
+.css .hljs-tag,
+.hljs-request,
+.hljs-status,
+.nginx .hljs-title {
+  color: #859900 !important;
+}
+
+/* Solarized Cyan */
+.hljs-number,
+.hljs-command,
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-rules .hljs-value,
+.hljs-phpdoc,
+.hljs-dartdoc,
+.tex .hljs-formula,
+.hljs-regexp,
+.hljs-hexcolor,
+.hljs-link_url {
+  color: #2aa198 !important;
+}
+
+/* Solarized Blue */
+.hljs-title,
+.hljs-localvars,
+.hljs-chunk,
+.hljs-decorator,
+.hljs-built_in,
+.hljs-identifier,
+.vhdl .hljs-literal,
+.hljs-id,
+.css .hljs-function {
+  color: #268bd2 !important;
+}
+
+/* Solarized Yellow */
+.hljs-attribute,
+.hljs-variable,
+.lisp .hljs-body,
+.smalltalk .hljs-number,
+.hljs-constant,
+.hljs-class .hljs-title,
+.hljs-parent,
+.hljs-type,
+.hljs-link_reference {
+  color: #b58900 !important;
+}
+
+/* Solarized Orange */
+.hljs-preprocessor,
+.hljs-preprocessor .hljs-keyword,
+.hljs-pragma,
+.hljs-shebang,
+.hljs-symbol,
+.hljs-symbol .hljs-string,
+.diff .hljs-change,
+.hljs-special,
+.hljs-attr_selector,
+.hljs-subst,
+.hljs-cdata,
+.css .hljs-pseudo,
+.hljs-header {
+  color: #cb4b16 !important;
+}
+
+/* Solarized Red */
+.hljs-deletion,
+.hljs-important {
+  color: #dc322f !important;
+}
+
+/* Solarized Violet */
+.hljs-link_label {
+  color: #6c71c4 !important;
+}
+
+.tex .hljs-formula {
+  background: #eee8d5 !important;
+}
