@@ -2,6 +2,7 @@
 
 - 个人技能
 	- [学会 Debug](Personal-Skills/01-Learn To Debug.md)
+	
 	- [如何通过分割问题 Debug](Personal-Skills/02-How to Debug by Splitting the Problem Space.md)
 	- [如何移除一个错误](Personal-Skills/03-How to Remove an Error.md)
 	- [如何使用日志调试](Personal-Skills/04-How to Debug Using a Log.md)
